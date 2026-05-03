@@ -41,13 +41,6 @@ project/
 ├── requirements.txt                          # Python dependencies
 ├── README.md                                 # This file
 ├── project.pdf                               # Assignment instructions
-└── data/
-    ├── sample_dataset.csv                    # Sample data for development
-    └── Madrid air quality full dataset/      # Full dataset — 10 Parquet files (~544 MB)
-        ├── 0000.parquet
-        ├── 0001.parquet
-        ├── ...
-        └── 0009.parquet
 ```
 
 ---
